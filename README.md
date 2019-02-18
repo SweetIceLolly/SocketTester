@@ -47,7 +47,7 @@ You can specific the server port to listen on.
 
 You can specific the local UDP port, the remote UDP socket IP and the remote UDP socket port. Set the Remote IP to your broadcasting IP (e.g. `255.255.255.255`) to broadcast packets.
 
-**Other features of TCP Server Mode are exactly the same as TCP Client Mode**
+**Other features of UDP Mode are exactly the same as TCP Client Mode**
 
 # License
 
